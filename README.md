@@ -4,4 +4,4 @@ An android app that retrieves restaurant list from Foursquare, it allows users t
 ---------------------
 Important:
 
-This appliation used many framework and api of others, and i will add the copyright in it later. Sorry about that!
+This appliation used many frameworks and api of others, and i will add the copyright in it later. Sorry about that!
